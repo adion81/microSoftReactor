@@ -1,5 +1,5 @@
 // !Using VsCode 
-// !Extension: Better Comments for colorized comments.
+// !Extensions: Better Comments for colorized comments and Live Server for serving up our local web page.
 
 /**
     * ! Getting Started with JavaScript
